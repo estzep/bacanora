@@ -1,0 +1,28 @@
+{
+	"proxeventos": {
+		"evento1": {
+			"title": "Evento",
+			"description": "Acompáñanos en nuestro evento<br>de Ozuna-3. Un cantante originario<br>de Sinaloa.",
+			"hour": "Todos los sábados<br>a partir de las 18:00 hrs.",
+			"img": "12.jpeg"
+		},
+		"evento2": {
+			"title": "Enrique San Martín",
+			"description": "Acompáñanos en nuestro evento<br>de Enrique San Martín. Un cantante originario<br>de Oaxaca.",
+			"hour": "Todos los viernes<br>a partir de las 20:00 hrs.",
+			"img": "11.jpeg"
+		},
+		"evento3": {
+			"title": "",
+			"description": "Acompáñanos en nuestro evento<br>de Mariachis.",
+			"hour": "Lunes<br>de 9:00 hrs a 16:00 hrs",
+			"img": "5.jpeg"
+		},
+		"evento4": {
+			"title": "",
+			"description": "Acompáñanos en nuestro evento<br>de música en vivo.",
+			"hour": "Martes<br>de 9:00 hrs a 16:00 hrs",
+			"img": "3.jpeg"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.001" height="37.633" viewBox="0 0 33.001 37.633">
+  <g id="flechitas" transform="translate(0 37.633) rotate(-90)">
+    <g id="flecha" transform="translate(18.816 0) rotate(90)">
+      <path id="Path_1" data-name="Path 1" d="M14.872.679.679,14.872a2.309,2.309,0,1,0,3.265,3.265L16.5,5.581,29.057,18.137a2.311,2.311,0,0,0,3.265-3.272L18.137.679A2.307,2.307,0,0,0,16.5,0,2.278,2.278,0,0,0,14.872.679Z" transform="translate(0)"/>
+    </g>
+    <g id="flecha-2" data-name="flecha" transform="translate(37.633 0) rotate(90)">
+      <path id="Path_1-2" data-name="Path 1" d="M14.872.679.679,14.872a2.309,2.309,0,1,0,3.265,3.265L16.5,5.581,29.057,18.137a2.311,2.311,0,0,0,3.265-3.272L18.137.679A2.307,2.307,0,0,0,16.5,0,2.278,2.278,0,0,0,14.872.679Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>
